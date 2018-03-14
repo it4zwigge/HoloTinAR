@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloTinAR", "HoloTinAR.csproj", "{05DB6C0B-1362-2D17-F817-08F80BF94EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloTinAR.Editor", "HoloTinAR.Editor.csproj", "{6F342370-00B2-C1D3-A2E8-D1B5A47344FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05DB6C0B-1362-2D17-F817-08F80BF94EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DB6C0B-1362-2D17-F817-08F80BF94EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DB6C0B-1362-2D17-F817-08F80BF94EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DB6C0B-1362-2D17-F817-08F80BF94EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F342370-00B2-C1D3-A2E8-D1B5A47344FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F342370-00B2-C1D3-A2E8-D1B5A47344FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F342370-00B2-C1D3-A2E8-D1B5A47344FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F342370-00B2-C1D3-A2E8-D1B5A47344FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
